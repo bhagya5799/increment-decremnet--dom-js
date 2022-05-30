@@ -1,0 +1,20 @@
+.bg-container{
+    background-color: rgb(230, 238, 246);
+    height: 100vh;
+}
+.counter-heading{
+    font-size: 60px;
+    font-weight: 900;
+}
+.counter-value{
+    font-size: 70px;
+    font-weight: 900;
+}
+.button{
+    border-radius: 5px;
+    height: 40px;
+    width: 100px;
+    margin: 10px;
+    border-color: black;
+
+}
